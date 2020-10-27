@@ -1,0 +1,20 @@
+{
+    "Author": "Peter Selch Dahl - Azure MVP",
+    "ContentSize": 4813,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/sending-email-from-azure-automation-using-office-365-(secure-smtp)/master/SendMailUsingOffice365.ps1",
+    "DownloadCount": 10395,
+    "Id": "Sending-email-from-Azure-24ee27cd",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 17,
+    "RaterCount": 2,
+    "Rating": 2.5,
+    "ReleaseDate": "2014-9-20T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This script\u00a0 demonstrates how to send an email from Microsoft Azure automation using secure SMTP for sending the mail. In this setup the script is sending mails using Microsoft Office 365. This is could a nice feature to have to inform someone that Azure Automation just perform",
+    "Title": "Sending email from Azure Automation using Office 365 (Secure SMTP)",
+    "UpdatedDate": "2014-12-22T00:00:00",
+    "Url": "https://github.com/azureautomation/sending-email-from-azure-automation-using-office-365-(secure-smtp)",
+    "UserTags": "Office 365, send e-mail, Send-MailMessage"
+}
